@@ -1,10 +1,10 @@
 # Rock-Paper-Scissor-using-streamlit
-## 1] Start
+> ## ***Start***
 ![](snapshots/1.png)
-## 2] Play
+> ## ***Play***
 ![](snapshots/2.png)
-## 3] Win
+> ## ***Win***
 ![](snapshots/3.png) 
 ![](snapshots/4.png)
-## 5] Lose
+> ## ***Lose***
 ![](snapshots/5.png)
